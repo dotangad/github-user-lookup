@@ -9,6 +9,7 @@
     "react-scripts": "2.1.1",
     "react-typist": "^2.0.4",
     "react-typist-cycle": "^0.1.2",
+    "serve": "^10.1.1",
     "styled-components": "^4.0.3"
   },
   "scripts": {
